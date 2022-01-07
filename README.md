@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Oi, meu nome é Valquer Rafael, sou estudante e consumidor de conteúdo de programação.
 <div align="center">
   <a href="https://github.com/valquerrafa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valquerrafa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
