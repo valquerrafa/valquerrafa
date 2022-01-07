@@ -1,8 +1,8 @@
 ## Oi, meu nome é Valquer Rafael, sou estudante e consumidor de conteúdo de programação.
 <div align="center">
   <a href="https://github.com/valquerrafa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valquerrafa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valquerrafa&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valquerrafa&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valquerrafa&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
